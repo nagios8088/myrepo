@@ -1,1 +1,1 @@
-echo "build1"
+echo "test"
